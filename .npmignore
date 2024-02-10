@@ -1,0 +1,8 @@
+/src
+/node_modules
+/data_scrapping
+
+.DS_Store
+
+tsconfig.json
+tsup.config.ts

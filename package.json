@@ -1,0 +1,36 @@
+{
+	"name": "unicode-info",
+	"version": "0.0.1",
+	"description": "A simple package to get information about a unicode character",
+	"main": "./dist/index.js",
+	"module": "./dist/index.mjs",
+	"types": "./dist/index.d.ts",
+	"scripts": {
+		"build": "tsup"
+	},
+	"keywords": [
+		"unicode",
+		"unicode-info",
+		"unicode-character",
+		"unicode-properties",
+		"unicode-data",
+		"unicode-information",
+		"utf-8",
+		"utf-16",
+		"ascii",
+		"encoding",
+		"character",
+		"character-info"
+	],
+	"author": "ShariarShuvo1",
+	"license": "MIT",
+	"homepage": "https://github.com/ShariarShuvo1/unicode-info",
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/ShariarShuvo1/unicode-info.git"
+	},
+	"devDependencies": {
+		"tsup": "^8.0.2",
+		"typescript": "^5.3.3"
+	}
+}
