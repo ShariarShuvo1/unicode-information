@@ -1,6 +1,6 @@
 {
 	"name": "unicode-info",
-	"version": "0.0.1",
+	"version": "1.0.0",
 	"description": "A simple package to get information about a unicode character",
 	"main": "./dist/index.js",
 	"module": "./dist/index.mjs",
