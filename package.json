@@ -1,7 +1,7 @@
 {
-	"name": "unicode-info",
+	"name": "unicode-information",
 	"version": "1.0.0",
-	"description": "A simple package to get information about a unicode character",
+	"description": "A simple package to get information about a unicode characters",
 	"main": "./dist/index.js",
 	"module": "./dist/index.mjs",
 	"types": "./dist/index.d.ts",
@@ -11,7 +11,11 @@
 	"keywords": [
 		"unicode",
 		"unicode-info",
-		"unicode-character",
+		"unicode-info",
+		"unicode-lookup",
+		"emoji-lookup",
+		"emoji-unicode",
+		"emoji-list",
 		"unicode-properties",
 		"unicode-data",
 		"unicode-information",

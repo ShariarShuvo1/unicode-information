@@ -1,8 +1,5 @@
 /dist
 /node_modules
-/data_scrapping/xml_to_json/ucd.all.flat.json
-/data_scrapping/xml_to_json/ucd.all.flat.xml
-/data/unicode.json
 /data
 
 .DS_Store

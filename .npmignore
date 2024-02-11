@@ -1,7 +1,6 @@
 /src
 /node_modules
 /data_scrapping
-/data/unicode.json
 /data
 
 .DS_Store
